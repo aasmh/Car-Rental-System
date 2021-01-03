@@ -8,8 +8,10 @@ namespace Car_Rental_System
 {
     class Company : Person
     {
-        public Company(){
-        
+        public Company()
+        {
+            
         }
+        
     }
 }

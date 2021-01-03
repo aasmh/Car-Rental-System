@@ -41,7 +41,7 @@
             this.Renter.Name = "Renter";
             this.Renter.Size = new System.Drawing.Size(75, 23);
             this.Renter.TabIndex = 0;
-            this.Renter.Text = "Rental";
+            this.Renter.Text = "Rentee";
             this.Renter.UseVisualStyleBackColor = true;
             this.Renter.Click += new System.EventHandler(this.Renter_Click);
             // 
